@@ -1,8 +1,7 @@
 # Jonathan Powers
 
-Full stack engineer focused on building resilient systems with functional principles and type-safe architecture. I’m especially interested in context-aware systems and AI-augmented workflows that blend human intention with machine precision.
+Currently exploring context-aware tooling and AI-augmented workflows through [Mcp](https://github.com/jpowersdev/mcp) — a collection of composable servers built with [`@effect/cli`](https://github.com/Effect-TS/cli).
 
-- 🔭 Working on: [Mcp](https://github.com/jpowersdev/mcp) — a collection of MCP servers built with [`@effect/cli`](https://github.com/Effect-TS/cli), designed for building composable, AI-assisted workflows
 - 🧠 Interests: functional programming, system design, developer experience, AI-assisted tools
 - 🌐 Site: [powers.dev](https://powers.dev)
 
