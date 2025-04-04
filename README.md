@@ -1,6 +1,18 @@
 # Jonathan Powers
 
-Currently exploring context-aware tooling and AI-augmented workflows through [@jpowersdev/effect-mcp](https://github.com/jpowersdev/effect-mcp) — a set of tools for constructing [Model Context Protocol](https://modelcontextprotocol.io) servers using Effect.
+Hi there, I'm Jonathan. I enjoy learning new things and solving hard problems. 
 
-- 🧠 Interests: functional programming, system design, developer experience, AI-assisted tools
-- 🌐 Site: [powers.dev](https://powers.dev)
+My current fascination is [Effect](https://github.com/effect-ts/effect). I'm interested in the ways we can use LLMs to augment the developer experience.
+
+### Work in Progress
+- [effect-mcp](https://github.com/jpowersdev/effect-mcp): Tools for building MCP servers using Effect
+- [effect-cluster-via-sst](https://github.com/jpowersdev/effect-cluster-via-sst): Effect Cluster sandbox, analyzing documents using LLMs
+
+### Preferred Tools
+- Backend: Typescript | Node.js | Effect | NestJS
+- Frontend: React | NextJS | Alpine.js
+- Data: Postgres | Redis | MariaDB
+
+### Online Properties
+- Homepage: [powers.dev](https://powers.dev)
+- LinkedIn: [@jpowersdev](https://linkedin.com/in/jpowersdev)
